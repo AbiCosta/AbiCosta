@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abicosta&label=Profile%20views&color=0e75b6&style=flat" alt="abicosta" /> </p>
 
-- 🌱 I’m currently learning **ML,JAVA and Python**
+- 🌱 I’m currently learning **ML, JAVA and Python**
 
 - 💬 Ask me about **Tech**
 
