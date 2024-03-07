@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Abilaash Radly Harison 👋</h1>
 <h3 align="center">Empowering the World's Tech Landscape with Passion-Fueled Code Innovations.</h3><br>
-<img align="right" alt="coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
+<img align="right" alt="coding" width="300" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abicosta&label=Profile%20views&color=0e75b6&style=flat" alt="abicosta" /> </p>
 
 - 🌱 I’m currently learning **Machine Learning, React, Flutter etc.**
