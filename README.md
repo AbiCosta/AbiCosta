@@ -36,7 +36,7 @@
   <br>
   <img width=400 src="https://streak-stats.demolab.com?user=AbiCosta&theme=dark-smoky" alt="GitHub Streak"/><br>
   <img width=350 src="https://github-readme-stats.vercel.app/api/top-langs?username=abicosta&show_icons=true&locale=en&layout=compact&theme=react&rank" alt="abicosta"/>
-  <img width=350 src="https://github-readme-stats.vercel.app/api?username=AbiCosta&theme=react&rank&show_icons=true&rank_icon=github" alt="AbiCosta's GitHub stats" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=AbiCosta&theme=react&rank&show_icons=true&rank_icon=github" alt="AbiCosta's GitHub stats" />
 </div>
 
 <br>
